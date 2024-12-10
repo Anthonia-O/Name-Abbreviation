@@ -1,0 +1,45 @@
+Tableau
+TBU
+
+Amazon
+AAZ
+
+Azure
+AZR
+
+Machine
+MCH
+
+Microsoft
+MFT
+
+Note Pad
+NPD
+
+Tool Kit
+TKT
+
+Python Window
+PWW
+
+Product Sub-Category
+PCC PCS PSC
+
+Equiconvex
+EQE
+
+OBJECT ORIENTED PROGRAMMING
+OOO OOP OPO
+
+DATA ENGINEERING
+DEE
+
+Cold
+CLD
+
+Cool
+COO
+
+C++ Code
+CCD
+
